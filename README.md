@@ -2,7 +2,7 @@ PROFILE
 
 👋 Hi there! I'm Gökhan KARAKAYA, a passionate Front-end and React Developer with a strong love for clean and efficient code. 🚀
 💡 I'm also actively contributing to open-source projects, exploring new web technologies, and continually learning to improve my skills.
-🎓 Graduated from Ankara University Faculty of Political Sciences in 2002. ⛷️ Professional Skier | 🎾 Tennis Enthusiast | ⚽ Football Lover
+⛷️ Professional Skier | 🎾 Tennis Enthusiast | ⚽ Football Lover
 🌱 I believe in the power of knowledge sharing, and I regularly read tech and software articles. 
 
 SKILLS
