@@ -22,8 +22,8 @@ Here are a few technologies I've been working with recently:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your Profile](LinkedIn_Profile_Link)
-- Email: [Your Email Address](Mail_Address)
+- LinkedIn: (www.linkedin.com/in/gökhan-karakaya-87078299)
+- Email: (gkarakaya0601@gmail.com)
 
 ## 🌟 GitHub Stats
 
