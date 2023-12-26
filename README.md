@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Gökhan KARAKAYA] 👋
 
 ## 🚀 About Me
 
@@ -18,15 +18,16 @@ Here are a few technologies I've been working with recently:
 ## 🔭 Current Work
 
 - Working on a React project to enhance user experience.
-- Exploring advanced React and React Native patterns and architectures.
+- Exploring advanced React patterns and architectures.
 
 ## 📫 Get in Touch
 
-- LinkedIn: (www.linkedin.com/in/gökhan-karakaya-87078299)
+- LinkedIn: [Your Profile](LinkedIn_Profile_Link)
 - Email: [Your Email Address](Mail_Address)
 
 ## 🌟 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=github_username&show_icons=true&hide_border=true)](https://github.com/github_username)
+
 
 
