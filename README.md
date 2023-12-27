@@ -25,9 +25,7 @@ Here are a few technologies I've been working with recently:
 - LinkedIn: (www.linkedin.com/in/gökhan-karakaya-87078299)
 - Email: (gkarakaya0601@gmail.com)
 
-## 🌟 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=github_username&show_icons=true&hide_border=true)](https://github.com/GokhanKARAKAYA1)
 
 
 
