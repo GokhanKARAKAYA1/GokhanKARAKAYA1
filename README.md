@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a passionate and detail-oriented React Developer with extensive experience in crafting efficient and user-friendly web applications. I'm enthusiastic about exploring new technologies and constantly improving my skill set.
+🎓 I'm a passionate and detail-orientedFront-End, React and Software Developer with extensive experience in crafting efficient and user-friendly web applications. I'm enthusiastic about exploring new technologies and continuously keep track of new developments in the field of software, analyzing changes and striving to improve myself.
 
 ## ⚡ Technologies and Tools
 
@@ -17,8 +17,8 @@ Here are a few technologies I've been working with recently:
 
 ## 🔭 Current Work
 
-- Working on a React project to enhance user experience.
-- Exploring advanced React patterns and architectures.
+- Working on a Front-end and React projects to enhance user experience.
+- Exploring advanced Front-end and React patterns and architectures.
 
 ## 📫 Get in Touch
 
