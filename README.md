@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a passionate and detail-orientedFront-End, React and Software Developer with extensive experience in crafting efficient and user-friendly web applications. I'm enthusiastic about exploring new technologies and continuously keep track of new developments in the field of software, analyzing changes and striving to improve myself.
+🎓 I'm a passionate and detail-oriented Front-End, React, React Native and Software Developer with extensive experience in crafting efficient and user-friendly web applications. I'm enthusiastic about exploring new technologies and continuously keep track of new developments in the field of software, analyzing changes and striving to improve myself.
 
 ## ⚡ Technologies and Tools
 
